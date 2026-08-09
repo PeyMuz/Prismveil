@@ -13,7 +13,7 @@ const PROJECTS = [
   { file: "BUSINESS.mp4", title: "Business", aspect: "9:16" },
   { file: "FOR REELS-copy.mp4", title: "For Reels", aspect: "9:16" },
   { file: "PERSONAL BRANDS.mp4", title: "Personal Brands", aspect: "9:16" },
-  { file: "REELS.mp4", title: "Reels", aspect: "9:16" },
+  { file: "REELS(2).mp4", title: "Reels", aspect: "9:16" },
 ];
 
 function useRevealOnScroll() {
