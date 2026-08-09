@@ -735,7 +735,6 @@ export default function PrismveilPortfolio() {
 
       <footer className="pv-footer" id="contact">
         <span>© {new Date().getFullYear()} Prismveil — Video Editing</span>
-        <a href="mailto:hello@prismveil.studio">hello@prismveil.studio</a>
       </footer>
     </div>
   );
